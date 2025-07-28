@@ -3,7 +3,7 @@
 
 // STAGE=prod
 
-// DB_PASSWORD=AVNS_hc7J9QmiyMmggGFsV7d
+// DB_PASSWORD=
 // DB_NAME=teslodb
 // DB_HOST=teslodb-do-user-12346115-0.b.db.ondigitalocean.com
 // DB_PORT=25060
@@ -12,4 +12,4 @@
 // PORT=3000
 // HOST_API=http://localhost:3000/api
 
-// JWT_SECRET=Est3EsMISE3Dsecreto32s
+// JWT_SECRET=
